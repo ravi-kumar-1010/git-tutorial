@@ -1,2 +1,2 @@
 # This is just a simple Git Tutorial
-Hi There , I am checking out this fantastic Awesome Tutorial.
+Hi There , I am checking out this cool Tutorial.
